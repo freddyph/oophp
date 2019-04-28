@@ -1,1 +1,3 @@
-Copyright år och ditt namn samt diverse länkar som du finner relevanta.
+Copyright &copy; 2019 [Andreas Wahlstedt]( http://www.student.bth.se/~anau17/dbwebb-kurser)
+
+[License](license) [Cookies](cookies) [Contact](contact)
